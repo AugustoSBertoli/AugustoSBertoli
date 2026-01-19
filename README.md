@@ -1,6 +1,6 @@
 # Olá, eu sou o Augusto De Souza Bertoli! 👋
 
-🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na UNIP.  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** na UNIP.  
 💻 Estudando e desenvolvendo projetos em **C#**, **CSS**, **HTML**, e **SQL Server**.  
 🐍 Tenho conhecimentos em **Python** e **JavaScript** também!
 
