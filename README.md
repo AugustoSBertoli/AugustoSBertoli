@@ -16,12 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
-## 📈 GitHub Stats
-![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoSBertoli&show_icons=true&theme=github_dark)
-
----
-
 ## 📫 Como me encontrar
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/augusto.bertoli)
